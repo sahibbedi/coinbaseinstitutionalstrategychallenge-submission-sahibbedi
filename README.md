@@ -3,7 +3,7 @@
 <img width="942" height="721" alt="Screenshot 2026-05-27 at 5 57 04 PM" src="https://github.com/user-attachments/assets/1d660a09-57c1-40fc-8f3c-126392db9169" />
 
 # BTC Basis Dashboard: Live Yield & Trade Estimator
-A lightweight, fully permissionless dashboard that tracks the exact yield of the Bitcoin "cash-and-carry" trade. By pulling live prices for spot Bitcoin and its corresponding futures contract, this tool tells you exactly what the trade is paying right now and whether that yield is unusually high or low.
+A lightweight dashboard that tracks the exact yield of the Bitcoin "cash-and-carry" trade. By pulling live prices for spot Bitcoin and its corresponding futures contract, this tool tells exactly what the trade is paying right now and whether that yield is unusually high or low.
 
 # Live Application
 [Link coming soon] (Currently deploying to Streamlit Community Cloud)
