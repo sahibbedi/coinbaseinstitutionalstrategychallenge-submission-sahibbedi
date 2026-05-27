@@ -49,6 +49,7 @@ Boot the app:
 
 Bash
 streamlit run btcbasis.py
+
 Option 2: Test in Google Colab (Text-Based Backup)
 If you just want to test the math and data pipelines without setting up a local web environment, use the included Colab notebook.
 
