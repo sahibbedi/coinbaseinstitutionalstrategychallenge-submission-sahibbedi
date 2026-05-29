@@ -6,7 +6,7 @@
 A lightweight dashboard that tracks the exact yield of the Bitcoin "cash-and-carry" trade. By pulling live prices for spot Bitcoin and its corresponding futures contract, this tool tells exactly what the trade is paying right now and whether that yield is unusually high or low.
 
 # What Value This Creates
-Institutional clients constantly ask about the health of the basis yield. This tool gives them an instant, mathematically precise answer without requiring expensive terminal subscriptions, proprietary data feeds, or API keys. It translates raw, moving prices into a simple "expanding" or "compressing" narrative, allowing users to instantly assess the risk and reward of the trade.
+This tool translates raw, moving prices into a simple "expanding" or "compressing" narrative, allowing users to instantly assess the risk and reward of a potential basis trade by looking at the health of the basis yield.
 
 # What the Metrics and Graph Represent
 The dashboard is broken down into three core analytical sections:
