@@ -48,7 +48,7 @@ Bash
 streamlit run btcbasis.py
 
 Option 2: Test in Google Colab (Text-Based Backup)
-If you just want to test the math and data pipelines without setting up a local web environment, use the included Colab notebook.
+If you just want to test the math and data pipelines without setting up a local web environment, use the included Colab notebook. Link: https://colab.research.google.com/github/sahibbedi/btcbasisdashboard-sahibbbedi/blob/main/BTCBasisDashboard.ipynb
 
 Open the .ipynb file in this repository via Google Colab.
 
